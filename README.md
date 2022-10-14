@@ -1,4 +1,4 @@
-![Alt Text](src/assets/textures/World.PNG)
+![Alt Text](src/assets/textures/README.gif)
 
 # Climate Warming website made with React.js
 
